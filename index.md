@@ -5,11 +5,11 @@ Welcome to the Software & Robotics Club, University of Nigeria Nsukka.
 
 ### Where do we meet?
 
-We are an open space for learning and innovation located at Computer Science 3rd year class,Abuja building. You can bring your own project or join to one existing project.
+We meet at Computer Science 3rd year class,Abuja building weekly. You can bring your own project or join to one existing project.
 
 ### Who can attend?
 
-Anyone is welcome, there are students from different discipline. we only need from you your compromise to create amazing projects.
+Anyone is welcome, there are students from different discipline. we only thing we expect from you is commitment and the hunger to learn with others.
 
 ### When do we meet?
 
